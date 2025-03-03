@@ -11,13 +11,11 @@ https://github.com/user-attachments/assets/b0609cbd-7ede-459e-9c70-508227d07e4d
 
 
 
-[Add your video demo here]
 
 ## Features
 
-- Real-time webcam-based gesture control
-- Custom-trained MobileNet model for hand gesture recognition
-- Real-time display of loss, confidence score
+- Custom-train a MobileNet model for hand gesture recognition
+- Real-time webcam-based gesture control, display of loss, confidence score
 - UMAP for input dataset
 - Classic Pac-Man gameplay mechanics
 
